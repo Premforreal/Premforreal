@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saraswati Panda  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
+<h1 align="center">Hi 👋, I'm Prem Kumar  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 
 ## 🙋‍♂️ Who Am I?
 
@@ -31,11 +31,6 @@
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-<p align="center"><img alt="Saraswati Panda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraswati121&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-       
-</p>
 
 
 ## 📊 My Github Stats
@@ -48,7 +43,7 @@
 
 <br/>
 <br/>
-<img alt="Saraswati Panda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saraswati121&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saraswati121&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
