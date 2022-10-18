@@ -4,7 +4,7 @@
 - 👨‍💻 I'm currently learning MERN stack <br>
 - 🔎 I am always keen to explore any new technologies. <br>
 - 😊 Please go through my repos and ⭐ them if you like it. <br>
-- 🔗 You can view my live projects in my [portfolio](https://prem-react-portfolio.netlify.app/).
+- 🔗 You can view my live projects in my [portfolio](https://prem-react-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
