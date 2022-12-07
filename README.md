@@ -26,8 +26,8 @@
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50">
 <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mysql" width="50" height="50">
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/183637/html5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
