@@ -20,7 +20,8 @@
 
 <p align="left">   
 <img src="https://www.svgrepo.com/show/355081/js.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/> 
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/473611/flask.svg" alt="flask" width="40" height="40">
 <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="node" width="40" height="40">
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50">
