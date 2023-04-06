@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 
 <h3 >I'm a passionate developer from India.</h3>
-- 👨‍💻 I'm currently working on Angular<br>
+- 👨‍💻 I'm currently working on Angular and TypeScript.<br>
 - 🔎 I am always keen to explore any new technologies. <br>
 - 😊 Please go through my repos and ⭐ them if you like it. <br>
 - 🔗 You can view my live projects here : https://prem-react-portfolio.netlify.app/
