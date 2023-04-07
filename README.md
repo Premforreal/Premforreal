@@ -19,9 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">   
- <kbd>
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40" />
- </kbd>
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/439061/angular.svg" alt="angular" width="40" height="40" />
