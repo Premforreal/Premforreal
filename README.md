@@ -22,7 +22,7 @@
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40" />
-<img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/439061/angular.svg" alt="angular" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="node" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
