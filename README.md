@@ -26,7 +26,7 @@
 <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="node" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40" />
-<img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mysql" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="myongodb" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/183637/html5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
