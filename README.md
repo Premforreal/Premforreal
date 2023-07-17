@@ -25,8 +25,8 @@
 <img src="https://www.svgrepo.com/show/439061/angular.svg" alt="angular" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/439290/react.svg" alt="react" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="node" width="40" height="40" />
-<img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
 </p>
