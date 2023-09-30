@@ -30,5 +30,6 @@
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40"/>
 </p>
 
