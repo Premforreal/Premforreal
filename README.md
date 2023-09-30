@@ -31,5 +31,6 @@
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="aws" width="40" height="40"/>
 </p>
 
