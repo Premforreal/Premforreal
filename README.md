@@ -29,8 +29,7 @@
 <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
-<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="aws" width="40" height="40"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo"alt="aws" width="40" height="40" />
+<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353464/azure.svg" alt="aws" width="50" height="50"/>
 </p>
 
