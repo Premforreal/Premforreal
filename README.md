@@ -14,7 +14,7 @@
 - 📉 Achieved a **56% reduction in AWS spend** through infrastructure audits and architectural trade-offs
 - 🧠 Leveraging AI tools (Claude, Copilot, ChatGPT, OpenAI API) to accelerate development workflows
 - 🎓 B.Tech in Chemical Engineering from **NIT Warangal** (2018–2022)
-- 🌐 Portfolio: **[portfolio-premkumar.s3-website.ap-south-1.amazonaws.com](http://portfolio-premkumar.s3-website.ap-south-1.amazonaws.com/)**
+- 🌐 Portfolio: **[premalakunta.com](premalakunta.com)**
 - 📫 Reach me at **premalakuntah@gmail.com**
 
 ---
